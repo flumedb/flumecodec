@@ -2,10 +2,10 @@
   "name": "flumecodec",
   "description": "",
   "version": "0.0.0",
-  "homepage": "https://github.com/dominictarr/flumecodec",
+  "homepage": "https://github.com/flumedb/flumecodec",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/flumecodec.git"
+    "url": "git://github.com/flumedb/flumecodec.git"
   },
   "dependencies": {
     "level-codec": "^6.2.0"
